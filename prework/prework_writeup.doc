@@ -1,0 +1,1 @@
+I created a separate test file (prework_assessment_test.py) that you can run to create new objects at run-time. The getBalance method is used to return the string represenation of account balances when requested.
